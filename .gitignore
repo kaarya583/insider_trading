@@ -1,0 +1,15 @@
+# Class credentials: never commit these (see README)
+.env
+notebooks/.env
+data_access_instructions.ipynb
+
+# Downloaded data copies (large); keep local. notebooks/data/*.csv IS committed (insider_demo needs it).
+/data/
+*.parquet
+
+# Jupyter / Python / editor noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.Rhistory
+.DS_Store
