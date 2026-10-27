@@ -1,4 +1,6 @@
-# L3 · Introduction to Prediction Markets — materials for students
+# insider_trading
+
+## L3 · Introduction to Prediction Markets — materials for students
 
 Stats C161/C261, guest lecture by Yurii Nosov (UCLA Trustworthy AI Lab), Thursday Oct 8, 2026.
 
